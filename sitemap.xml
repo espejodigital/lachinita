@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://a.com/index.html</loc>
+    <lastmod>2017-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://a.com/images/929dc3126c76b7fc8d5ee7bad5afd555-crop-u1344.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/2b0e1ee16767c7e3e939d82e5785b0be-1.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,60 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="a.com" resolutions="1x" timestamp="1514405489912">
+  <folder name="css">
+    <file name="site_global.css" crc="4229864048"/>
+    <file name="master_a-master.css" crc="498985289" ref="index"/>
+    <file name="index.css" crc="328931667" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="59940fe4b22f8760004353.jpg" crc="158598880" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dot.png" crc="2256935" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="929dc3126c76b7fc8d5ee7bad5afd555-crop-u1344.jpg" crc="88241288" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2b0e1ee16767c7e3e939d82e5785b0be-1.jpg" crc="3941685100" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="dot-u1029-fr.png" crc="116089516" ref="index"/>
+    <file name="facebook.png" crc="317936629" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1046-5.png" crc="4286617274" ref="index"/>
+    <file name="u1054-5.png" crc="45807649" ref="index"/>
+    <file name="u1058-6.png" crc="3816614287" ref="index"/>
+    <file name="pollo-al-vino1.jpg" crc="39980501" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e22.jpg" crc="4015003360" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="carapulcra-de-pollo_1.jpg" crc="223089406" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fiesta-chiclayo_main.jpg" crc="3816794532" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3869572138" seo="true" mt="1514405414479" redirect="true"/>
+</manifest>
